@@ -44,8 +44,7 @@ request.onsuccess = function(event) {
 //     if (method === "put") {
 //       store.put(object);
 //     }
-//     if (method === "clear") {
-//       store.clear();
+//  
 //     }
 //     if (method === "get") {
 //       const all = store.getAll();

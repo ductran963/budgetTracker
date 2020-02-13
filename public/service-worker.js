@@ -58,7 +58,7 @@ const FILES_TO_CACHE = [
               return response;
             })
             .catch(err => {
-              
+              // if errors, saved cache and show errors
                 return cache.match(evt.request);
               
             });
