@@ -86,11 +86,7 @@ function saveInfo(record) {
 //     if (method === "clear") {
 //       store.clear();
 //     }
-//     if (method === "get") {
-//       const all = store.getAll();
-//       all.onsuccess = function() {
-//         resolve(all.result);
-//       };
+//    
 //     }
 //     tx.oncomplete = function() {
 //       db.close();
