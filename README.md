@@ -14,6 +14,8 @@ The purpose of this project is to use mongo database to create an application th
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
+Github repo: https://github.com/ductran963/budgetTrackerOffline
 
+Deployed project: https://budget-tracker-123.herokuapp.com/
 
 
